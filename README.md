@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou o Nicolas Wanderley
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas
-🎓 Pós Engenharia de Software
-🎓 Pós Inteligência artificial e machine learning
+🎓 Formado em Análise e Desenvolvimento de Sistemas  
+🎓 Pós Engenharia de Software  
+🎓 Pós Inteligência artificial e machine learning  
 💻 Foco em Desenvolvimento de Software e Inteligência artificial  
 🐍 Experiência com Python, SQL, e fundamentos de backend  
 
-Atualmente, desenvolvo projetos pessoais para consolidar meus conhecimentos em:
+Atualmente, desenvolvo projetos pessoais para consolidar meus conhecimentos em:  
 - Lógica de Programação e Estrutura de Dados  
 - Desenvolvimento com Python 
 - Segurança Digital e Boas Práticas  
