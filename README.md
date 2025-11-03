@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Nicolas Wanderley
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas  
+🎓 Formado em Análise e Desenvolvimento de Sistemas
 🎓 Pós Engenharia de Software
 🎓 Pós Inteligência artificial e machine learning
 💻 Foco em Desenvolvimento de Software e Inteligência artificial  
