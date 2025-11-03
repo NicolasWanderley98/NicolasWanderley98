@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Nicolas Wanderley
 
-<!--
-**NicolasWanderley98/NicolasWanderley98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formado em Análise e Desenvolvimento de Sistemas  
+🎓 Pós Engenharia de Software
+🎓 Pós Inteligência artificial e machine learning
+💻 Foco em Desenvolvimento de Software e Inteligência artificial  
+🐍 Experiência com Python, SQL, e fundamentos de backend  
 
-Here are some ideas to get you started:
+Atualmente, desenvolvo projetos pessoais para consolidar meus conhecimentos em:
+- Lógica de Programação e Estrutura de Dados  
+- Desenvolvimento com Python 
+- Segurança Digital e Boas Práticas  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Entre em contato: n_icolas21@hotmail.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/nicolaswanderley/) | [Portfólio no GitHub](https://github.com/NicolasWanderley98)
+
+
+
+# 👋 Hi, I'm Nicolas Wanderley
+
+🎓 Graduate in Analysis and Systems Development  
+🎓 Postgraduate in Software Engineering  
+🎓 Postgraduate in Artificial Intelligence and Machine Learning  
+💻 Focused on Software Development and Artificial Intelligence  
+🐍 Experience with Python, SQL, and backend fundamentals  
+
+I am currently working on personal projects to strengthen my knowledge in:  
+- Programming Logic and Data Structures  
+- Python Development  
+- Digital Security and Best Practices  
+
+📫 Contact me: n_icolas21@hotmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/nicolaswanderley/) | [GitHub Portfolio](https://github.com/NicolasWanderley98)
