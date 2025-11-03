@@ -11,7 +11,7 @@ Atualmente, desenvolvo projetos pessoais para consolidar meus conhecimentos em:
 - Desenvolvimento com Python 
 - Segurança Digital e Boas Práticas  
 
-📫 Entre em contato: n_icolas21@hotmail.com 
+📫 Entre em contato: n_icolas21@hotmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/nicolaswanderley/) | [Portfólio no GitHub](https://github.com/NicolasWanderley98)
 
 
